@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+#Compiled dependencies
+wxWidgets-3.1.7/
+
 # Compiled Object files
 *.slo
 *.lo
@@ -30,3 +33,16 @@
 *.exe
 *.out
 *.app
+
+
+#debug and log files
+*.log
+*.tlog
+*.pdb
+*.lastbuildstate
+*.recipe
+*.ilk
+*.idb
+*.enc
+*.iobj
+*.ipdb
