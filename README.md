@@ -1,6 +1,6 @@
 # DMDB - Projeto Final 1 - Engenharia Civil
 
-Aplicativo para dimensionamento de estruturas de madeira pelo método de correlação da densidade básica, fundamentado na tese do De Paula (2021), e a norma brasileira vigente NBR7190/2022.
+Aplicativo para auxílio no dimensionamento de estruturas de madeira pelo método de correlação da densidade básica, fundamentado na tese do De Paula (2021), e a norma brasileira vigente NBR 7190/2022.
 
 ![Screenshot](https://www.dropbox.com/s/16a8fwrsbpgikpt/interface-inicial.png?raw=1)
 
